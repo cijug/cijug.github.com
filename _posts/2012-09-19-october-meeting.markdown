@@ -12,10 +12,8 @@ On his my.deere.com project, they have a very distributed architecture (too much
 
 Part of this is also extensive use of Google Guava caches with custom MemcacheD backings.
 
-The meeting will be October 2nd at [Meredith]. Pizza will be provided by
-John Deere.
+Pizza will be provided by John Deere.
 
 [Ryan Bergman]: http://twitter.com/ryber
-[Clean Coders]: http://www.cleancoders.com/
 [Meredith]: https://maps.google.com/maps?q=1716+locust+des+moines&hnear=1716+Locust+St,+Des+Moines,+Iowa+50309&gl=us&t=h&z=16
 

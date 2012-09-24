@@ -16,7 +16,7 @@ We meet at [Meredith Publishing](http://maps.google.com/maps/place?q=1716+locust
 
 ## How to Join
 
-To join: E-mail the Central Iowa Java User [Google Group](mailto:central-iowa-java-users-group+subscribe@googlegroups.com)
+To join: E-mail the Central Iowa Java [Google Group](mailto:central-iowa-java-users-group+subscribe@googlegroups.com)
 
 <div class="blog-index">  
   {% assign post = site.posts.first %}
