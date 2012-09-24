@@ -1,36 +1,29 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Central Iowa Java User Group
+tagline:  A group for Java, JVM, and other cool technologies
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Who We Are
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+CIJUG is a user group for application developers in the Central Iowa area. We meet the first Tuesday of the month to discuss Java, JVM technologies, or 
+anything else interesting (Javascript, NoSQL, DevOps, etc)
 
-## Update Author Attributes
+## Where to Find Us
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+We meet at [Meredith Publishing](http://maps.google.com/maps/place?q=1716+locust&hl=en&cid=11632086222648977254). Free parking is available in the garage on the south side of Locust.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## How to Join
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+To join: E-mail the Central Iowa Java User [Google Group](mailto:central-iowa-java-users-group+subscribe@googlegroups.com)
 
-    $ rm -rf _posts/core-samples
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
 
-Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +31,5 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
