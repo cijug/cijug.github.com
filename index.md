@@ -31,7 +31,7 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 
 ## Where to Find Us
 
-We meet at [Meredith Publishing](http://maps.google.com/maps/place?q=1716+locust&hl=en&cid=11632086222648977254). Free parking is available in the garage on the south side of Locust.
+We meet at [Meredith Publishing](https://plus.google.com/102282676190267210224/about?gl=US&hl=en-US). Free parking is available in the garage on the south side of Locust.
 
 <ul class="posts">
   {% for post in site.posts %}
