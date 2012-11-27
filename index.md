@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Central Iowa Java User Group
-tagline:  A group for Java, JVM, and other cool technologies
+tagline:  A group for Java, JVM, and other cool technology aficionados
 ---
 {% include JB/setup %}
 
