@@ -16,7 +16,7 @@ tagline:  A group for Java, JVM, and other cool technology aficionados
 CIJUG is a user group for application developers in the Central Iowa area. We meet the first Tuesday of the month to discuss Java, JVM technologies, or 
 anything else interesting (Javascript, NoSQL, DevOps, etc)
 
-## How to [Join] (https://groups.google.com/forum/?fromgroups#!forum/central-iowa-java-users-group)
+## How to [Join](https://groups.google.com/forum/?fromgroups#!forum/central-iowa-java-users-group)
 
 <div style="display: inline-block">
 	<form action="http://groups.google.com/group/Central-Iowa-Java-Users-Group/boxsubscribe">	  
