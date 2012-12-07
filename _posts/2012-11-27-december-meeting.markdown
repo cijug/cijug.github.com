@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Next Meeting - December 4th"
+title: "December 4th"
 date: 2012-11-27 15:10
 comments: true
-categories: 
+categories: meeting
 ---
 
 December's meeting has [Brandon Carlson] of Lean TECHniques talking about using facts to drive product decisions.

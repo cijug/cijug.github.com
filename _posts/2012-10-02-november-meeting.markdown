@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Next Meeting - November 6th"
+title: "November 6th"
 date: 2012-10-01 15:10
 comments: true
-categories: 
+categories: meeting
 ---
 
 November's meeting has [Toran Billups] of IMT Insurance talking about [ember.js].

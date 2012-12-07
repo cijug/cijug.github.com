@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Next Meeting - October 2nd"
+title: "October 2nd"
 date: 2012-09-19 15:10
 comments: true
-categories: 
+categories: meeting
 ---
 
 October's meeting has [Ryan Bergman] of John Deere Intelligent Solutions talking about designing for instability.

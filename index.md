@@ -34,10 +34,7 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 We meet at [Meredith Publishing](https://maps.google.com/maps?ie=UTF8&cid=7053981532446613691&q=Meredith+Corporation&iwloc=A&gl=US&hl=en-US). Free parking is available in the garage on the south side of Locust.
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.categories.meeting limit: 5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-
-
