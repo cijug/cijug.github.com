@@ -6,7 +6,7 @@ tagline:  A group for Java, JVM, and other cool technology aficionados
 {% include JB/setup %}
 
 <div class="blog-index">  
-  {% assign post = site.posts.first %}
+  {% assign post = site.categories.meeting.first %}
   {% assign content = post.content %}
   {% include post_detail.html %}
 </div>
