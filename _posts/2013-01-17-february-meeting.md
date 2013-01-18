@@ -4,6 +4,7 @@ title: "February 5th"
 date: 2013-1-016 15:10
 comments: true
 categories: meeting
+published: true
 ---
 
 February's meeting is all about automated acceptance testing. What is it and how do you do it.
