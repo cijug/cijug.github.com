@@ -12,4 +12,3 @@ With all the buzz around javascript these days it's hard to know what library or
 
 [Toran Billups]: http://twitter.com/toranb
 [ember.js]: http://emberjs.com
-[Meredith]: https://maps.google.com/maps?q=1716+locust+des+moines&hnear=1716+Locust+St,+Des+Moines,+Iowa+50309&gl=us&t=h&z=16
