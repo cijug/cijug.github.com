@@ -9,7 +9,7 @@ published: true
 
 February's meeting is all about automated acceptance testing. What is it and how do you do it.
 
-We'll look at two popular tools [Fitnesse] and [Cucumber-JVM].
+We'll look at two popular tools [Fitnesse] and [CucumberJVM].
 
 [Fitnesse]: http://fitnesse.org
-[Cucumber-JVM]: https://github.com/cucumber/cucumber-jvm
+[CucumberJVM]: https://github.com/cucumber/cucumber-jvm
