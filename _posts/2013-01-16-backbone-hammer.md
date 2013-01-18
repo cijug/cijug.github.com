@@ -14,19 +14,19 @@ events? With [hammer.js], it's easy.
 <html>
   <head>
     <title>Swipe Backbone with Hammer.js</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">		
-		<style>
-			#swiping {
-				height: 100px;
-				width: 300px;
-				text-align: center;				
-				background: blue;
-				color: white;
-			}			
-		</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">		
+    <style>
+    #swiping {
+      height: 100px;
+      width: 300px;
+      text-align: center;				
+      background: blue;
+      color: white;
+    }			
+    </style>
   </head>
   <body>				
-		<div id="swiping"></div>
+    <div id="swiping"></div>
 		
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="js/underscore.js"></script>
