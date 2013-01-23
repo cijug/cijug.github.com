@@ -14,6 +14,8 @@ can write documentation valuable to both business and developers.
 Then see how these docs stay current by integrating them into the [CI]
 environment.
 
+Josh Carson will discuss [Fitnesse] and Dan Mullins will discuss [CucumberJVM].
+
 [Fitnesse]: http://fitnesse.org
 [CucumberJVM]: https://github.com/cucumber/cucumber-jvm
 [CI]: http://en.wikipedia.org/wiki/Continuous_integration
