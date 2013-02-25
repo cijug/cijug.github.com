@@ -7,7 +7,7 @@ categories: meeting
 published: true
 ---
 
-March's meeting has [Vincent Mutambuki] talking about continous deployment.
+March's meeting has [Vincent Mutambuki] talking about continuous deployment.
 
 Getting software released is a tricky proposition for some organizations. In some organizations, releases become all night events full of tense moments and fear. After several failed releases, management might show you the door. 
 
