@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 /* Partials */
 /* Theme Vars */
 /* Compass Vars */
@@ -14,8 +14,8 @@ body {
   color: #bbb;
   text-shadow: 1px 1px 1px #000;
   height: 100%;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
 }
 
 /* line 26, ../_sass/_base.scss */
@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   color: #999;
   text-rendering: optimizelegibility;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   /*font-family: 'Pontano Sans', sans-serif;*/
 }
 
