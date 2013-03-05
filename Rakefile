@@ -1,7 +1,8 @@
-require "rubygems"
-require 'rake'
+require 'bundler'
 require 'yaml'
 require 'time'
+
+Bundler.require
 
 SOURCE = "."
 CONFIG = {
