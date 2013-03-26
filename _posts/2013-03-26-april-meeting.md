@@ -6,9 +6,9 @@ comments: true
 categories: meeting
 published: true
 ---
-April's meeting will be a continuation of March's continous delivery talk. This time [Luke Amdor] will show how they release software at [Banno].
+April's meeting will be a continuation of March's continous delivery talk. This time, [Luke Amdor] will show how they release software at [Banno].
 
-Last meeting, [Vincent Mutambuki] talked about the goals of continous delivery. This month, Luke will push a feature from dev to prod in front of our very eyes. Forget live coding, this is live production pushing.
+Last meeting, [Vincent Mutambuki] talked about the goals of continuous  delivery. This month, Luke will push a feature from dev to prod in front of our very eyes. Forget live coding, this is live production pushing.
 
 [Luke Amdor]: https://twitter.com/rubbish
 [Banno]: http://banno.com/
