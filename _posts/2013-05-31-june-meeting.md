@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: June 4th
+title: August 6th
 date: "2013-05-26 15:10"
 comments: true
 categories: meeting
