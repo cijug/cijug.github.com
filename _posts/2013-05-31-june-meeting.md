@@ -16,7 +16,7 @@ classes together? Sick of Tomcat?
 [Dropwizard] is the latest addition to the Java framework club. 
 Instead of starting from scratch, they built on what's
 already out there (minus [Spring]). [Jersey] for Rest, [Maven] for builds,
-[JDBI] for persistnce, [Jetty] for the container. The goal is to make working with
+[JDBI] for persistence, [Jetty] for the container. The goal is to make working with
 restful services in Java simple again.  
 
 [Meredith Publishing]: http://www.meredith.com/
