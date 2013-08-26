@@ -11,13 +11,11 @@ September's meeting has [Ryan Bergman] of [John Deere] talking about the new [la
 
 Lots of other languages have Lambdas, Java doesn't. Java's gotten a lot of mileage out of anonymous inner classes, but that all changes in Java 8. See an early release of how much less typing you'll have to do in the future.
 
-[CSS3] is a collection of modules to help web developers support all the new screens out there. Custom fonts, curves, built-in grids will be all supported without needing a pre-compiler like [SASS] or [Compass]. 
+As the support for [CSS3] continue to grow in major browsers, it's time to take a look at some new CSS tricks that make better styling for modern responsive websites. In the presentation Ying will show examples for icon font, :before & :after pseudo elements, box-sizing and other tricks.
 
 [Meredith Publishing]: http://www.meredith.com/
 [Ying Zhang]: http://pure-essence.net/
 [Ryan Bergman]: https://twitter.com/ryber
 [lambdas]: http://zeroturnaround.com/rebellabs/java-8-the-first-taste-of-lambdas/#!/
 [John Deere]: http://scalingsoftwareagilityblog.com/john-deeres-isg-gets-results/
-[CSS3]: http://www.w3.org/Style/CSS/specs#namespace
-[SASS]: http://sass-lang.com/
-[Compass]: http://compass-style.org/
+[CSS3]: http://css3test.com/
