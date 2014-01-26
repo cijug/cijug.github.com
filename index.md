@@ -34,7 +34,18 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 
 ## Where to Find Us
 
-We meet at [Meredith Publishing](https://maps.google.com/maps?ie=UTF8&cid=7053981532446613691&q=Meredith+Corporation&iwloc=A&gl=US&hl=en-US). Free parking is available in the garage on the south side of Locust.
+We meet at [Startup City](https://maps.google.com/maps?q=startupcity+des+moines&ie=UTF-8&ei=CnDlUsWcNuilsQTht4CADw&ved=0CAkQ_AUoAQ) (317 6th Ave., 5th floor
+Downtown Des Moines). 
+
+Parking can be found in the following locations:  
+
+* Street lot at 5th and Court 
+* The EMC lot at 8th and Mulberry
+* The lot at 5th and Locust 
+* Street parking at any open meter
+ 
+
+## Archives
 
 <ul class="posts">
   {% for post in site.categories.meeting limit: 5 %}
