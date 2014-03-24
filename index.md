@@ -34,16 +34,7 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 
 ## Where to Find Us
 
-We meet at [Startup City](https://maps.google.com/maps?q=startupcity+des+moines&ie=UTF-8&ei=CnDlUsWcNuilsQTht4CADw&ved=0CAkQ_AUoAQ) (317 6th Ave., 5th floor
-Downtown Des Moines). 
-
-Parking can be found in the following locations:  
-
-* Street lot at 5th and Court 
-* The EMC lot at 8th and Mulberry
-* The lot at 5th and Locust 
-* Street parking at any open meter
- 
+We meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690) (1025 Ashworth Rd, West Des Moines, IA 50265). 
 
 ## Archives
 
