@@ -5,15 +5,20 @@ date: 2014-05-21 15:10
 comments: true
 categories: meeting
 ---
-June's meeting has [Ken Sype] from the [Central Iowa Software Symposium] talking about the "Complexity of Complexity". We will be giving away a free pass to the upcoming symposium as well.
+June's meeting has [Spencer Herzberg] of [Source Allies] delving
+into devops with [Docker].
 
-Of all the non-functional requirements of software development, complexity receives the least attention and seems to be the most important from a long term standard point. This talk will look at some of forces that drive complexity at the code level and at a system level and their impact. We will discuss what causes us to over look complexity, how our perception of it changes over time and what we can do about it?
+Tired of managing code and infrastructure differences between your dev, test and prod environments? Need isolated application environments versions quickly and seamlessly? Never want to install Java, Postgres, or your favorite tool again? Docker is for you. Come learn how modern linux containerization can speed your application deployment and development.
 
-In this talk we will break down the meaning of complexity and simplicity and measure the application of those means against the common software development dogma. Looking at common development trends and pressures, we'll discuss where simplify does and doesn't help. We will examine areas of development which at first glance seem to be simple (such as the creation of an equals method in Java), that end up being difficult or impossible based on normal constraints. We will example the drivers of complexity with some discussion on what you can do about it. This session will finish with a discussion around several challenges to high scale software architectures and how to keep it simple.
+You will learn about what Docker is, how to use it for local development and how to move your code and infrastructure to a prod environment. The last half of the presentation will be discussion format with time to talk through how to get your environment up and running on Docker containers.
 
-The [Central Iowa Software Symposium] will be happening August 8th to
-the 10th. Symposium details can be found [here].
+Docker's on Google's radar and has [big plans] for it in their hosted
+environments.
 
-[Ken Sype]:https://twitter.com/kensipe
-[Central Iowa Software Symposium]:https://nofluffjuststuff.com/conference/des_moines/2014/08/home
-[here]:https://nofluffjuststuff.com/conference/des_moines/2014/08/home
+[Spencer Herzberg] is half devops, half developer who is passionate about agile development and automation. He works for [Source Allies] in Des Moines where he works on a wide variety of languages, frameworks and infrastructure.
+
+[Spencer Herzberg]: https://twitter.com/linuxconvert
+[Source Allies]: http://www.sourceallies.com/
+[Docker]: https://www.docker.io/
+[big plans]: http://www.pcworld.com/article/2159100/google-cloud-previews-dockerbased-virtual-machines.html
+
