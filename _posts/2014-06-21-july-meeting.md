@@ -5,7 +5,7 @@ date: 2014-06-21 15:10
 comments: true
 categories: meeting
 ---
-June's meeting has [Ken Sype] from the [Central Iowa Software Symposium] talking about the "Complexity of Complexity". We will be giving away a free pass to the upcoming symposium as well.
+July's meeting has [Ken Sype] from the [Central Iowa Software Symposium] talking about the "Complexity of Complexity". We will be giving away a free pass to the upcoming symposium as well.
 
 Of all the non-functional requirements of software development, complexity receives the least attention and seems to be the most important from a long term standard point. This talk will look at some of forces that drive complexity at the code level and at a system level and their impact. We will discuss what causes us to over look complexity, how our perception of it changes over time and what we can do about it?
 
