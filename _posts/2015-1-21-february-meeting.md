@@ -5,20 +5,15 @@ date: 2015-1-19 15:10
 comments: true
 categories: meeting
 ---
-At February's meeting, [Matthew Nuzum][nuz] of John Deere ISG will be giving
-an intro to [Node.js] talk. Why would you [care about server side
-Javascript][care]?
+February's CIJUG has [Chris Freeman] talking about [Clojure]/Java interoperability.
 
-According to [Andrew Kirpalani][kirp] who is another local Node developer:
+[Clojure] is a JVM language, and as such you can call Java from Clojure and Clojure from Java. Usually.
 
-1. You're using JS both client and server side, the cognitive barrier
-to switching tasks is much lower.
-2. It's super fast.
-3. It's asynchronous in the same way your front end should be, another
-conceptual reuse that rocks
-4. Huge community makes it super fast to pull things together.
+Come learn how to leverage those Java libraries in your Clojure code.
+Come learn how to reuse that Clojure you just wrote in your Java application.
+We'll talk about when it works well, and when you'll want to buy that extra pizza for the long coding nights ahead.
 
-[nuz]: https://twitter.com/newz2000
-[kirp]: https://twitter.com/_kirps
-[Node.js]: http://nodejs.org/
-[care]: http://chetansurpur.com/blog/2010/10/why-node-js-is-totally-awesome.html
+We'll also talk about how to write tests in Clojure, and explore a few of the lein plugins which make your life easier.
+
+[Clojure]: http://clojure.org
+[Chris Freeman]: https://twitter.com/cwfreeman
