@@ -34,7 +34,8 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 
 ## Where to Find Us
 
-We usually meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690), but in March we're meeting at [Principal Financial Group (750 Park Avenue Downtown Des Moines)](pfg). 
+We usually meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690), but in March we're meeting at <a href="/assets/PrincipalCampusMap.pdf">Principal Financial
+Group (750 Park Avenue Downtown Des Moines)</a>
 
 ## Archives
 
@@ -43,6 +44,3 @@ We usually meet at [Businessolver](https://www.google.com/maps/place/Businessolv
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-[pfg]:/assets/PrincipalCampusMap.pdf
-
