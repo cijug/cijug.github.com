@@ -11,13 +11,13 @@ tagline:  A group for Java, JVM, and other cool technology aficionados
   {% include post_detail.html %}
 </div>
 
+<a href="http://www.aureusgroup.com/"><img src="http://www.aureusgroup.com/design/landing/agbox.jpg" alt="Aureus"></a>
+
 ## Who We Are
 
 CIJUG is a user group for application developers in the Central Iowa area. We meet the first Tuesday of the month to discuss Java, JVM technologies, or 
 anything else interesting (Javascript, NoSQL, DevOps, etc)
 
-## Our Sponsor
-<a href="http://www.teksystems.com/it-careers/search-results?toff=477&officeid=641"><img src="http://www.teksystems.com/~/media/Images/Branding/TEKsystems-logo.ashx" alt="TekSystems"></a>
 
 ## How to [Join](https://groups.google.com/forum/?fromgroups#!forum/central-iowa-java-users-group)
 
@@ -34,7 +34,7 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 
 ## Where to Find Us
 
-We meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690) (1025 Ashworth Rd, West Des Moines, IA 50265). 
+We usually meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690), but in March we're meeting at [Principal Financial Group (750 Park Avenue Downtown Des Moines)](pfg). 
 
 ## Archives
 
@@ -43,3 +43,6 @@ We meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+[pfg]:/assets/PrincipalCampusMap.pdf
+
