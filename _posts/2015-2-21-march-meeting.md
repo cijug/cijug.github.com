@@ -26,9 +26,9 @@ He has trained and mentored thousands of software developers in the US, Canada, 
 
 Venkat is a (co)author of multiple books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. His latest book is Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s.
 
-[NFJS]:http://nofluffjuststuff.com/home/main
-[Dr. Venkat Subramaniam]:https://twitter.com/venkat_s
+[NFJS]: http://nofluffjuststuff.com/home/main
+[Dr. Venkat Subramaniam]: https://twitter.com/venkat_s
 [Programming Reactive]: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-[dan]:https://twitter.com/dmullins
+[dan]: https://twitter.com/dmullins
 [pfg]:/assets/PrincipalCampusMap.pdf
-[sign-up]:http://www.aureusgroup.com/form/reactive-programming.aspx
+[sign-up]: http://www.aureusgroup.com/form/reactive-programming.aspx
