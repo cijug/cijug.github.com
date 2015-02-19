@@ -5,7 +5,7 @@ date: 2015-2-19 15:10
 comments: true
 categories: meeting
 ---
-March's meeting has accomplished author and [NFJS] speaker  **[Venkat Subramaniam]** talking about [Programming Reactive]. If you only attend one CIJUG meeting this year, this is the one you want. If you attend two meetings this year, attend this one and anything with [Dan Mullins](dan).
+March's meeting has accomplished author and [NFJS] speaker  **[Venkat Subramaniam]** talking about [Programming Reactive]. If you only attend one CIJUG meeting this year, this is the one you want. If you attend two meetings this year, attend this one and anything with [Dan Mullins].
 
 ## Notes:
 * This meeting will not be at our usual location, instead it will be at
@@ -30,6 +30,5 @@ Venkat is a (co)author of multiple books, including the 2007 Jolt Productivity a
 [Venkat Subramaniam]: https://twitter.com/venkat_s
 [Dr. Venkat Subramaniam]: https://twitter.com/venkat_s
 [Programming Reactive]: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-[dan]: https://twitter.com/dmullins
-[pfg]:/assets/PrincipalCampusMap.pdf
+[Dan Mullins]: https://twitter.com/dmullins
 [sign-up]: http://www.aureusgroup.com/form/reactive-programming.aspx
