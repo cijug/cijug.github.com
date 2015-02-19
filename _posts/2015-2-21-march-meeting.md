@@ -5,7 +5,7 @@ date: 2015-2-19 15:10
 comments: true
 categories: meeting
 ---
-March's meeting has accomplished author and [NFJS] speaker  **[Venkat Subramaniam](venkat)** talking about [Programming Reactive](reactive). If you only attend one CIJUG meeting this year, this is the one you want. If you attend two meetings this year, attend this one and anything with [Dan Mullins](dan).
+March's meeting has accomplished author and [NFJS] speaker  **[Venkat Subramaniam](venkat)** talking about [Programming Reactive]. If you only attend one CIJUG meeting this year, this is the one you want. If you attend two meetings this year, attend this one and anything with [Dan Mullins](dan).
 
 ## Notes:
 * This meeting will not be at our usual location, instead it will be at
@@ -20,15 +20,15 @@ Big data, smart phones, tablets, wearable devices, multicore processors,…—we
 If you've heard and read about reactive programming, but are eager to realize that in code, then this presentation is for you. We will start with a rapid introduction and get into code to learn about reactive programming, not in theory but with practical examples.
 
 About the speaker:
-[Dr. Venkat Subramaniam](venkat) is an award-winning author, founder of Agile Developer, Inc., and an instructional professor at the University of Houston.
+[Dr. Venkat Subramaniam] is an award-winning author, founder of Agile Developer, Inc., and an instructional professor at the University of Houston.
 
 He has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with agile practices on their software projects.
 
 Venkat is a (co)author of multiple books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. His latest book is Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s.
 
 [NFJS]:http://nofluffjuststuff.com/home/main
-[venkat]:https://twitter.com/venkat_s
-[reactive]: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+[Dr. Venkat Subramaniam]:https://twitter.com/venkat_s
+[Programming Reactive]: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 [dan]:https://twitter.com/dmullins
 [pfg]:/assets/PrincipalCampusMap.pdf
 [sign-up]:http://www.aureusgroup.com/form/reactive-programming.aspx
