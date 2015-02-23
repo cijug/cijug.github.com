@@ -35,7 +35,8 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 ## Where to Find Us
 
 We usually meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690), but in March we're meeting at <a href="/assets/PrincipalCampusMap.pdf">Principal Financial
-Group (750 Park Avenue Downtown Des Moines)</a>
+Group (Park St downtown.  The meeting will be in the z-shaped building, in the southwest corner of the 1st floor.  The security entrance you’ll need to enter is also on the west side of the “Z” but on the north side.  You access that entrance from Park St.  Our security staff has asked attendees to park in lot L2, just north of the Z building. 
+)</a>
 
 ## Archives
 
