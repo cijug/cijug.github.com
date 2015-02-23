@@ -10,7 +10,7 @@ March's meeting has accomplished author and [NFJS] speaker  **[Venkat Subramania
 ## Notes:
 * This meeting will not be at our usual location, instead it will be at
 <a href="/assets/PrincipalCampusMap.pdf">Principal Financial
-Group (750 Park Avenue Downtown Des Moines)</a>
+Group (750 Park St downtown.)</a>  The meeting will be in the z-shaped building, in the southwest corner of the 1st floor.  The security entrance you’ll need to enter is also on the west side of the “Z” but on the north side.  You access that entrance from Park St.  Our security staff has asked attendees to park in lot L2, just north of the Z building.
 
 * Due to seating constraints, we will need everyone to sign-up in
   advance. If you do not [sign-up], security will not let you in. 
