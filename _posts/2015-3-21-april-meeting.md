@@ -6,7 +6,7 @@ comments: true
 categories: meeting
 ---
 
-Unit testing is hard. That's why a lot of developers don't do it. What's harder than getting starting in TDD? Working on someone else's bad unit tests.
+Unit testing is hard. That's why a lot of developers don't do it. What's harder than getting started in TDD? Working on someone else's bad unit tests.
 
 Why do some tests age better than others? Why do some grow with the code while others are re-written or deleted at the first opportunity?
 
