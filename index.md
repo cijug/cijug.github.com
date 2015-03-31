@@ -11,7 +11,7 @@ tagline:  A group for Java, JVM, and other cool technology aficionados
   {% include post_detail.html %}
 </div>
 
-<a href="http://www.aureusgroup.com/"><img src="http://www.aureusgroup.com/design/landing/agbox.jpg" alt="Aureus"></a>
+<a href="http://www.teksystems.com/locations/united-states/iowa/des-moines"><img src="http://www.teksystems.com/~/media/teksystems_com/images/utility_images/teksystems-logo.ashx?h=65&la=en&w=245" alt="TekSystems"></a>
 
 ## Who We Are
 
@@ -34,8 +34,9 @@ anything else interesting (Javascript, NoSQL, DevOps, etc)
 
 ## Where to Find Us
 
-We usually meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690), but in March we're meeting at <a href="/assets/PrincipalCampusMap.pdf">Principal Financial
-Group (750 Park St downtown.)</a>  The meeting will be in the z-shaped building, in the southwest corner of the 1st floor.  The security entrance you’ll need to enter is also on the west side of the “Z” but on the north side.  You access that entrance from Park St.  Our security staff has asked attendees to park in lot L2, just north of the Z building. 
+We usually meet at [Businessolver](https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690)
+-> 1025 Ashworth Rd #403, West Des Moines, IA 50265
+
 
 ## Archives
 
