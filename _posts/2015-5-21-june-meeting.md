@@ -7,6 +7,12 @@ categories: meeting
 ---
 June's meeting has accomplished author and [NFJS] speaker  **[Neal Ford]** talking about [building microservice architecture].
 
+**Also** - we will be giving away a free [NFJS] pass for this August's conference (a [$900] value)
+
+**Also** - [Principal Financial Group] will be giving tours of their new collaborative working environment.
+
+**Also** - [Mumo Systems] will be buying everyone's first round at the [Post-JUG].
+
 ## Notes:
 * This meeting will not be at our usual location, instead it will be at
 <a href="/assets/PrincipalCampusMap.pdf">Principal Financial
@@ -29,7 +35,11 @@ He is also the designer and developer of applications, instructional materials, 
 If you have an insatiable curiosity about Neal, visit his web site at http://www.nealford.com. He welcomes feedback and can be reached at nford@thoughtworks.com.
 
 [building microservice architecture]: http://microservices.io/patterns/microservices.html
-[NFJS]: http://nofluffjuststuff.com/home/main
 [Neal Ford]: https://twitter.com/neal4d
 [Neal]: https://twitter.com/neal4d
+[Principal Financial Group]: https://www.principal.com/
+[NFJS]: http://nofluffjuststuff.com/conference/des_moines/2015/08/home
+[Mumo Systems]: http://www.mumosystems.com/
 [sign-up]: https://www.eventbrite.com/e/central-iowa-java-user-group-june-meeting-with-neal-ford-tickets-17051912730
+[$900]: http://www.bustle.com/articles/35425-the-most-expensive-cupcake-in-the-world-costs-900-but-why-not-spend-your-money-on
+[Post-JUG]: https://twitter.com/scottcolsen/status/98435522963316736

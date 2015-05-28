@@ -12,14 +12,13 @@ tagline:  A group for Java, JVM, and other cool technology aficionados
 </div>
 
 {% comment %}<a href="http://www.teksystems.com/locations/united-states/iowa/des-moines"><img src="http://www.teksystems.com/~/media/teksystems_com/images/utility_images/teksystems-logo.ashx?h=65&la=en&w=245" alt="TekSystems"></a>{% endcomment %}
-{% comment %}<a href="http://www.mumosystems.com/careers/"><img style="box-shadow: none" src="/assets/mumo-dsmhack-large.png" alt="Mumo Systems"></a>{% endcomment %}
+<a href="http://www.mumosystems.com/careers/"><img style="padding-right: 40px; box-shadow: none" src="/assets/mumo-dsmhack-large.png" alt="Mumo Systems"></a>
 <a href="https://secure05.principal.com/hr/recruiting/ext/searchJobs.faces"><img style="box-shadow: none" src="/assets/Principal-Financial-Logo.jpg" alt="Principal Financial"></a>
 
 ## Who We Are
 
 CIJUG is a user group for application developers in the Central Iowa area. We meet the first Tuesday of the month to discuss Java, JVM technologies, or 
 anything else interesting (Javascript, NoSQL, DevOps, etc)
-
 
 ## How to [Join](https://groups.google.com/forum/?fromgroups#!forum/central-iowa-java-users-group)
 

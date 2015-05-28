@@ -1,3 +1,10 @@
+<style>
+  strong {
+    font-size: 26px;
+    font-weight: bold:
+  }
+</style>
+
 <h2 class="entry-title">
 {% if post.title %}
     <a href="{{ root_url }}{{ post.url }}">Next Meeting - {{ post.title }} 6:00pm</a>
@@ -5,8 +12,8 @@
 </h2>
 <div class="entry-content">{{ content }}</div>
 
-<h2>This meeting will be sponsored by <a
+<h2>This meeting will be sponsored by 
     {% comment %}href="http://www.teksystems.com/locations/united-states/iowa/des-moines">TekSystems</a></h2><br/>{% endcomment %}
-    {% comment %}href="http://www.mumosystems.com/careers/">Mumo Systems</a></h2><br/>{% endcomment %}
-    href="https://secure05.principal.com/hr/recruiting/ext/searchJobs.faces">Principal Financial Group</a></h2><br/>
+    <a href="http://www.mumosystems.com/careers/">Mumo Systems</a> and
+    <a href="https://secure05.principal.com/hr/recruiting/ext/searchJobs.faces">Principal Financial Group</a></h2><br/>
 
