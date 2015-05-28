@@ -11,6 +11,8 @@ June's meeting has accomplished author and [NFJS] speaker  **[Neal Ford]** talki
 
 **Also** - [Principal Financial Group] will be giving tours of their new collaborative working environment.
 
+**Also** - We'll be giving away two tickets to [KCDC] June 24th-26th.
+
 **Also** - [Mumo Systems] will be buying everyone's first round at the [Post-JUG].
 
 ## Notes:
@@ -43,3 +45,4 @@ If you have an insatiable curiosity about Neal, visit his web site at http://www
 [sign-up]: https://www.eventbrite.com/e/central-iowa-java-user-group-june-meeting-with-neal-ford-tickets-17051912730
 [$900]: http://www.bustle.com/articles/35425-the-most-expensive-cupcake-in-the-world-costs-900-but-why-not-spend-your-money-on
 [Post-JUG]: https://twitter.com/scottcolsen/status/98435522963316736
+[KCDC]: http://www.kcdc.info/#!/
