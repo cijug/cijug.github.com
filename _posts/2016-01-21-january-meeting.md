@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "January 14th"
+title: "February 11th"
 date: 2016-12-19 15:10
 comments: true
 categories: meeting
