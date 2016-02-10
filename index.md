@@ -11,8 +11,11 @@ tagline:  A group for Java, JVM, and other cool technology aficionados
   {% include post_detail.html %}
 </div>
 
-<a href="http://www.teksystems.com/locations/united-states/iowa/des-moines"><img src="http://www.teksystems.com/~/media/teksystems_com/images/utility_images/teksystems-logo.ashx?h=65&la=en&w=245" alt="TekSystems"></a>
-{% comment %}<a href="http://www.mumosystems.com/careers/"><img style="padding-right: 40px; box-shadow: none" src="/assets/mumo-dsmhack-large.png" alt="Mumo Systems"></a>{% endcomment %}
+<a href="http://www.teksystems.com/locations/united-states/iowa/des-moines">
+  <img style="background-color: white;width:400px;" src="https://s3.amazonaws.com/prodcalogos.s3-website-us-west-1.amazonaws.comprodcalogos/TEKsystemsLogo_2012_calogo1875.png" alt="TekSystems"></a>
+<a href="http://www.mumosystems.com/careers/">
+  <img style="background-color: white;margin-left: 40px; box-shadow: none" src="/assets/mumo-dsmhack-large.png" alt="Mumo Systems">
+</a>
 
 ## Who We Are
 
