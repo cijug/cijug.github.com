@@ -5,6 +5,7 @@ date: 2016-3-09 07:15
 comments: true
 categories: meeting
 ---
+
 Our apologies for the late notice.  In March, we are excited to have [Tim Gifford][tim] speak on Operations First Delivery.
 
 DevOps lore tell legendary tales of “Unicorn” companies. We’re told these mythical companies continuously deliver software to production with nary a blemished aura or mussed mane. Can it be so? Is this but a fairytale?
