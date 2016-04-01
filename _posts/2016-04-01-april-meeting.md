@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "April 14th"
 date: 2016-4-01 07:35
@@ -16,4 +16,4 @@ Speaker topics
 
 Where possible, we will vote on each proposal.  Please be sure to attend if you feel passionate any of these topics. 
 
-We look forward to seeing you there!
+We look forward to seeing you there!  
