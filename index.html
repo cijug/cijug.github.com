@@ -1,23 +1,36 @@
 ---
-layout: default
+layout: page
+title: Central Iowa Java User Group
+tagline:  A group for Java, JVM, and other cool technology aficionados
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Next Meeting</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <div class="blog-index">  
+    {% assign post = site.categories.meeting.first %}
+    {% assign content = post.content %}
+    {% include post_detail.html %}
+  </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+  <h2>Who We Are</h2>
+  <div>
+    CIJUG is a user group for application developers in the Central Iowa area. We meet the second Thursday of the month to discuss Java, JVM technologies, or anything else interesting (Javascript, NoSQL, DevOps, etc)
+  </div>
+  
+
+  <h2>Where to Find Us</h2>
+  <div>
+    We usually meet at <a href="https://www.google.com/maps/place/Businessolver+Inc/@41.5851253,-93.7179891,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xc9221c27d26bc690">Businessolver</a>.  They are located at 1025 Ashworth Rd #403, West Des Moines, IA 50265
+  </div>
+
+  <h2>Archives</h2>
+  <div>
+  <ul class="posts">
+    {% for post in site.categories.meeting limit: 5 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </div>
 </div>

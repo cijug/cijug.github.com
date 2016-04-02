@@ -1,0 +1,22 @@
+<style>
+  strong {
+    font-size: 26px;
+    font-weight: bold:
+  }
+</style>
+
+<h2 class="entry-title">
+{% if post.title %}
+    <a href="{{ root_url }}{{ post.url }}">Next Meeting - {{ post.title }} 6:00pm</a>
+{% endif %}
+</h2>
+<div class="entry-content">{{ content }}</div>
+
+<h2>CIJUG is sponsored by</h2>
+<div>
+  <ul>
+    <li><a href="http://www.teksystems.com/locations/united-states/iowa/des-moines">TekSystems</a></li>
+    <li><a href="http://www.mumosystems.com/careers/">Mumo Systems</a></li>
+  </ul>
+</div>
+
