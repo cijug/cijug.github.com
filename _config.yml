@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: CIJUG - Central Iowa Java User Group
-#email: your-email@domain.com
+title: CIJUG - Central Iowa Java Users Group
+email: central-iowa-java-users-group@googlegroups.com
 #description: > # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cijug.net" # the base hostname & protocol for your site
 twitter_username: cijug
 github_username:  cijug
