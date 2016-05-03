@@ -10,4 +10,4 @@ This will not be just a talk though.  Bring your laptops as we will work through
 
 Also, since this is a workshop, you should feel free to bring your own tools and framework stacks and show us how you work!
 
-We look forward to seeing you there! 
+The meeting will be on 12th at 6:00 PM at Businessolver.  We look forward to seeing you there! 
