@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "June 9th @ 6:00 PM - Advanced Series:  Effectively Working with Remote Teams"
+title:  "Next Meeting: June 9th @ 6:00 PM - Advanced Series:  Effectively Working with Remote Teams"
 date:   2016-06-02 12:00:00 -0500
 categories: meeting board
 ---
