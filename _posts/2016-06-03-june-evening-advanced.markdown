@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "June 9th @ 6:00 PM - Advanced Series:  Effectively Working with Remote Teams"
-date:   2016-06-03 08:00:00 -0500
+date:   2016-06-08 08:00:00 -0500
 categories: meeting board
 ---
 In today’s day and age, the idea of working remotely seems pretty trivial. However, doing so for an extended project with the whole team working remote poses its challenges. We will walk through techniques that have been successful for motivating, teaming, and collaborating remotely.
