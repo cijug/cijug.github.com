@@ -14,4 +14,4 @@ SPECIAL LOCATION: Forge by Pillar Technology - 1420 Locust Street, Des Moines, I
 
 This meeting will require a reservation.  Please follow the link below to sign up!
 
-https://www.eventbrite.com/e/devops-panel-by-iadnug-and-cijug-at-pillar-july-7-sponsored-by-beacon-hill-tickets-26250007479
+<a href="https://www.eventbrite.com/e/devops-panel-by-iadnug-and-cijug-at-pillar-july-7-sponsored-by-beacon-hill-tickets-26250007479">Eventbrite Meeting Signup</a>
