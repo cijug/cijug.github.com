@@ -3,7 +3,7 @@ layout: post
 title:  "September 8th @ 6:00 PM - Advanced Series:  U & I & X"
 date:   2016-09-08 08:00:00 -0500
 categories: meeting board
-----
+---
 
 Our speaker will be Andrew Zumwalt from Sogeti.  He will talk to us about UI and UX, what the similarities are and differences are, and help us understand what really goes into trying to communicate with your favorite digital device.
 
