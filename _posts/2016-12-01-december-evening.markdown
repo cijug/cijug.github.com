@@ -11,7 +11,7 @@ Our speaker for this month will be Brandon Carlson from Lean TECHniques.  Since 
 
 The meeting will be on December 8th at 6:00 PM at the new Source Allies office in Urbandale.  The address is 4501 NW Urbandale Dr, Urbandale, IA 50322.  
 
-In order to help with our pizza estimates, we'd ask that you please register using Eventbrite in advance of the meeting.  The registration can be found at https://www.eventbrite.com/e/cijug-dec-16-agile-basics-with-brandon-carlson-tickets-29672112086
+In order to help with our pizza estimates, we'd ask that you please register using Eventbrite in advance of the meeting.  The registration can be found at [here.](https://www.eventbrite.com/e/cijug-dec-16-agile-basics-with-brandon-carlson-tickets-29672112086)
 
 We look forward to seeing you there! 
 
