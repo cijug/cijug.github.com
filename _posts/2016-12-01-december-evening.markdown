@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "December 8th @ 6:00 PM - abstract class AgilePrinciples // The building blocks of Agile with Brandon Carlson"
-date:   2016-11-06 01:00:00 -0500
+date:   2016-12-08 01:00:00 -0500
 categories: meeting board
 ---
 
