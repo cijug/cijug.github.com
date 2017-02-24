@@ -9,7 +9,7 @@ One of the key practices to create quality software is Test Driven Development (
 
 Our speaker Greg Orton has spent over a decade creating applications using TDD.  He is the IT Development Manager at Iowa Student Loan where TDD is an integral part of the extreme programming practices that support their agile software development projects  
 
-We are privileged to hold our meeting at the new Waukee Innovation and Learning Center this month!  Please come for the talk and then feel free to stay to get a look around this amazing new facility!  Details on the WILC can be found at http://www.waukeeapex.org/.
+We are privileged to hold our meeting at the new Waukee Innovation and Learning Center this month!  Please come for the talk and then feel free to stay to get a look around this amazing new facility!  Details on the WILC and the Waukee Apex program can be found at [waukeeapex.org](http://www.waukeeapex.org/.)
 
 Please sign up to attend this meeting as space will be limited: [Register at Eventbrite](https://www.eventbrite.com/e/cijug-march-17-test-driven-development-w-greg-orton-tickets-32342690859)
 
