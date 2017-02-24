@@ -13,5 +13,10 @@ We are privileged to hold our meeting at the new Waukee Innovation and Learning 
 
 Please sign up to attend this meeting as space will be limited: [Register at Eventbrite](https://www.eventbrite.com/e/cijug-march-17-test-driven-development-w-greg-orton-tickets-32342690859)
 
+Location
+Waukee Innovation and Learning Center
+3199 Ashworth Rd
+Waukee, IA 50263
+
 We look forward to seeing you there! 
 
