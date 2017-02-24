@@ -11,7 +11,7 @@ Our speaker Greg Orton has spent over a decade creating applications using TDD. 
 
 We are privileged to hold our meeting at the new Waukee Innovation and Learning Center this month!  Please come for the talk and then feel free to stay to get a look around this amazing new facility!  Details on the WILC can be found at http://www.waukeeapex.org/.
 
-Please sign up to attend this meeting here as space will be limited: https://www.eventbrite.com/e/cijug-march-17-test-driven-development-w-greg-orton-tickets-32342690859
+Please sign up to attend this meeting as space will be limited: [Register at Eventbrite](https://www.eventbrite.com/e/cijug-march-17-test-driven-development-w-greg-orton-tickets-32342690859)
 
 We look forward to seeing you there! 
 
