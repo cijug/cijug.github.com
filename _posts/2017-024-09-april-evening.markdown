@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "April 13th @ 6:00 PM - Jenkins Pipelines with Luke Amdor"
-date:   2017-04-09 11:00:00 -0500
+date:   2017-04-09 12:00:00 -0500
 categories: meeting board
 ---
 
