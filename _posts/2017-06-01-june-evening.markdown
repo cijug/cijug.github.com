@@ -12,7 +12,7 @@ He has trained and mentored thousands of software developers in the US, Canada, 
 
 Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books at agiledeveloper.com. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s.
 
-Please register for this meeting by joining our new Meetup.com group.  https://www.meetup.com/central-iowa-java-users-group/events/239938761/
+Please register for this meeting by joining our new Meetup.com group.  [Functional Programming in Java 8 by Venkat Subramaniam](https://www.meetup.com/central-iowa-java-users-group/events/239938761/)
 
 Location    
 Source Allies
@@ -35,8 +35,7 @@ Location: Des Moines, IA
 
 Venue: Sheraton West Des Moines
 
-URL: https://nofluffjuststuff.com/conference/des_moines/2017/08/home
-
+URL: [https://nofluffjuststuff.com/conference/des_moines/2017/08/home](https://nofluffjuststuff.com/conference/des_moines/2017/08/home)
 
 Make sure and use your special JUG discount of $50 by using the promo code nfjsusergroup50 when registering.  If you are registering with a group, the highest discount will apply - group or JUG discount.
 
